@@ -1,0 +1,166 @@
+{
+    "Events": [
+        {
+            "Slot": 2,
+            "TimeToEnd": 1729828150.1200643,
+            "Tokens": 10,
+            "MapID": 776,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 1,
+            "TimeToEnd": 1729871350.1278741,
+            "Tokens": 10,
+            "MapID": 739,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 4,
+            "TimeToEnd": 1729871350.1347044,
+            "Tokens": 10,
+            "MapID": 639,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 5,
+            "TimeToEnd": 1729871350.1415365,
+            "Tokens": 10,
+            "MapID": 777,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 6,
+            "TimeToEnd": 1727536357.3456142,
+            "Tokens": 10,
+            "MapID": 638,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 11,
+            "TimeToEnd": 1727536357.3456142,
+            "Tokens": 10,
+            "MapID": 7,
+            "ClaimedTokens": []
+        },
+        {
+            "Slot": 20,
+            "TimeToEnd": 1727536357.3456142,
+            "Tokens": 10,
+            "MapID": 636,
+            "ClaimedTokens": [],
+            "ChampionShipInfo": {
+                "MaxWins": 3,
+                "ChoronosTextEntry": "GRUESOME!",
+                "LogicGemOffer": {
+                    "ID": 4,
+                    "Ammount": 1,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 959
+                },
+                "ChronosFileEntry": {
+                    "scName": "(82040537547002ae2f85da04fd223c423aaf7618",
+                    "scFile": "/d35569bd-80ec-4007-82c0-b0bd9b6381b3_challenge_brawloween2024.sc"
+                }
+            }
+        },
+        {
+            "Slot": 21,
+            "TimeToEnd": 1727536357.3456142,
+            "Tokens": 10,
+            "MapID": 22,
+            "ClaimedTokens": [],
+            "ChampionShipInfo": {
+                "MaxWins": 3,
+                "ChoronosTextEntry": "GRUESOME!",
+                "LogicGemOffer": {
+                    "ID": 4,
+                    "Ammount": 1,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 959
+                },
+                "ChronosFileEntry": {
+                    "scName": "(82040537547002ae2f85da04fd223c423aaf7618",
+                    "scFile": "/d35569bd-80ec-4007-82c0-b0bd9b6381b3_challenge_brawloween2024.sc"
+                }
+            }
+        },
+        {
+            "Slot": 22,
+            "TimeToEnd": 1727536357.3456142,
+            "Tokens": 10,
+            "MapID": 19,
+            "ClaimedTokens": [],
+            "ChampionShipInfo": {
+                "MaxWins": 3,
+                "ChoronosTextEntry": "GRUESOME!",
+                "LogicGemOffer": {
+                    "ID": 4,
+                    "Ammount": 1,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 959
+                },
+                "ChronosFileEntry": {
+                    "scName": "(82040537547002ae2f85da04fd223c423aaf7618",
+                    "scFile": "/d35569bd-80ec-4007-82c0-b0bd9b6381b3_challenge_brawloween2024.sc"
+                }
+            }
+        },
+        {
+            "Slot": 23,
+            "TimeToEnd": 1727536357.3456142,
+            "Tokens": 10,
+            "MapID": 548,
+            "ClaimedTokens": [],
+            "ChampionShipInfo": {
+                "MaxWins": 3,
+                "ChoronosTextEntry": "GRUESOME!",
+                "LogicGemOffer": {
+                    "ID": 4,
+                    "Ammount": 1,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 959
+                },
+                "ChronosFileEntry": {
+                    "scName": "(82040537547002ae2f85da04fd223c423aaf7618",
+                    "scFile": "/d35569bd-80ec-4007-82c0-b0bd9b6381b3_challenge_brawloween2024.sc"
+                }
+            }
+        },
+        {
+            "Slot": 35,
+            "TimeToEnd": 2427536357.3456142,
+            "Tokens": 10,
+            "MapID": 548,
+            "ClaimedTokens": [],
+            "ChampionShipInfo": {
+                "MaxWins": 3,
+                "ChoronosTextEntry": "GRUESOME!",
+                "LogicGemOffer": {
+                    "ID": 4,
+                    "Ammount": 1,
+                    "CsvID": [
+                        0,
+                        0
+                    ],
+                    "SkinID": 959
+                },
+                "ChronosFileEntry": {
+                    "scName": "(13c34ce781b5291bd8226b73cd77a34d25928ec1",
+                    "scFile": "/68afeaeb-9c09-4567-8ab6-9d57f1e61cb8_club_piggy_tree.sc"
+                }
+            }
+        }
+    ]
+}
