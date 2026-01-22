@@ -5,7 +5,7 @@ ANDROID (MEDIAFIRE) : soon
 ## Requirements: ##
 1. a brain...
 
-## How to play BSDS: ##
+## How to play BSVS: ##
 
 # Mobile #
 1. download server and apk
